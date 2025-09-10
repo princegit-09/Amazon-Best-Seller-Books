@@ -17,6 +17,20 @@ It explores **patterns in ratings, reviews, prices, and authors** to understand 
 
 ---
 
+## 📊 Sample Visuals
+
+![Top Authors](images/Top-best-selling-authors.png)  
+*Top 10 authors with most best-seller books.*
+
+![Ratings Distribution](images/Distribution-of-books.png)  
+*Distribution of book ratings (most books rated above 4.5).*
+ 
+![Reviews vs Ratings](images/Ratings-vs-Reviews.png)
+*Shows realtion between how the reviews shows the impact on ratings too.(Social proof).*
+
+
+---
+
 ## 🛠️ Tech Stack
 - **Python**
 - **Pandas**
